@@ -5,7 +5,7 @@
 ``` mkdir Exercise ```
 
 **Question 2: In the directory, create all the sub-directories you would need for a Bioinformatics Project**
-``` mkdir data scripts results docs
+``` mkdir data scripts results docs ```
 cd data
 mkdir raw processed ```
 
