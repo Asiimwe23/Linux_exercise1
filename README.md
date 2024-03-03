@@ -2,8 +2,8 @@
 **Introduction to Linux**
 
 **Question 1: Create a project directory called Exercise. Which commands did you use?**
-
-``` mkdir Exercise 
+```
+mkdir Exercise 
 ```
 
 **Question 2: In the directory, create all the sub-directories you would need for a Bioinformatics Project**
