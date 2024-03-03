@@ -29,8 +29,9 @@ diff nrf1_seq.fa nrf1_seqtemp.fa
 
 **Question 4: Extract the sequence headers and save into a file sequence_names.txt**
 
-# First you need to count how many headers you are expecting to extract from both files
 ```
+# First you need to count how many headers you are expecting to extract from both files
+
 grep -c ">" nrf1_seq.fa 
 grep -c ">" nrf1_seqtemp.fa
  ```
